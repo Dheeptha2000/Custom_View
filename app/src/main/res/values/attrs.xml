@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShapeSelectorView_displayShapeName"></declare-styleable>
+    <declare-styleable name="ShapeSelectorView"></declare-styleable>
+    <declare-styleable name="ShapeSelectorView_shapeColor"></declare-styleable>
+</resources>
